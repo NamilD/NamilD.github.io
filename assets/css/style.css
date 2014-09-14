@@ -153,10 +153,13 @@ button:focus, button:active:focus, button.active:focus,
 .light-blue {
 	background: #84bedf;
 }
+.light-red {
+	background: #F08080;
+}
 
 /* 2.3 Animate Colors */
 .light-yellow,.light-green,
-.light-violet, .light-blue  {
+.light-violet, .light-blue , .light-red {
 	-webkit-transition: all .35s ease;
 	-moz-transition: all .35s ease;
 	-ms-transition: all .35s ease;
@@ -862,6 +865,9 @@ button:focus, button:active:focus, button.active:focus,
 }
 .education-item:hover .light-blue {
 	background: #67b7e5;
+}
+.education-item:hover .light-red {
+	background: #FA8072;
 }
 .edu-time p {
 	line-height: 16px
