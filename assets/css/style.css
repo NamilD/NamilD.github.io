@@ -712,6 +712,8 @@ button:focus, button:active:focus, button.active:focus,
 }
 .skill-green {
 	background: #aec785;
+}.skill-gray {
+	background: #D3D3D3 ;
 }
 
 /* 5.2 Design Skills*/
