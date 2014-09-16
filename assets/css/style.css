@@ -104,7 +104,7 @@ body {
 
 /* 1.2 Default Animations */
 a {
-	color:#1fb5ac;
+	color:#1fa6b5;
 	-webkit-transition: all .25s ease;
 	-moz-transition: all .25s ease;
 	-ms-transition: all .25s ease;
@@ -119,7 +119,7 @@ a {
 	transition: all .25s ease;
 }
 a:hover {
-	color:#e74c3c;
+	color:#b51f5b;
 	text-decoration: none;
 }
 /* 1.3 Reset Focus */
@@ -239,7 +239,7 @@ button:focus, button:active:focus, button.active:focus,
 
 /* 2.9 Resume Download Button */
 .btn.download-btn {
-	background: #16a085;
+	background: #1f8db5;
 	color:#FFF;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -274,7 +274,7 @@ button:focus, button:active:focus, button.active:focus,
 	transition: all .25s ease;
 }
 .btn.download-btn:hover {
-	background: #1fb5ac;
+	background: #1fa6b5;
 }
 
 .btn.download-btn:hover:after {
@@ -378,7 +378,7 @@ button:focus, button:active:focus, button.active:focus,
 	border-bottom: 1px solid #dddfeb;
 }
 .archive-list ul li a:hover {
-	color:#1fb5ac;
+	color:#1fa6b5;
 	padding-left: 10px;
 }
 .archive-list ul li a:before {
@@ -404,7 +404,7 @@ button:focus, button:active:focus, button.active:focus,
 	content: "\f099";
 	font-family: FontAwesome;
 	font-size: 25px;
-	color:#1fb5ac;
+	color:#1fa6b5;
 	position: absolute;
 	left: 0px;
 }
@@ -583,7 +583,7 @@ button:focus, button:active:focus, button.active:focus,
 	display: block;
 	width: 36px;
 	height: 36px;
-	color:#a6dbd1;
+	color:#42dcdf;
 	border:1px solid #FFF;
 	border-radius: 50%;
 	text-align: center;
@@ -613,7 +613,7 @@ button:focus, button:active:focus, button.active:focus,
 }
 .social-profiles .item a:hover {
 	text-decoration: none;
-	color:#1fb5ac;
+	color:#1fa6b5;
 }
 .social-profiles .item a:before {
 	font-family: FontAwesome;
@@ -916,11 +916,11 @@ button:focus, button:active:focus, button.active:focus,
 }
 #portfolio-filters .btn.active,
 #portfolio-filters .btn.active:hover{
-	background: #1fb5ac;
+	background: #1fa6b5;
 	color:#FFF;
 }
 #portfolio-filters .btn:hover {
-	color:#1fb5ac;
+	color:#1fa6b5;
 }
 #portfolio-filters .btn:first-child {
 	border-top-left-radius: 4px;
@@ -963,7 +963,7 @@ a {
 
 }
 .portfolio-item .item-content:hover .overlay-content {
-	background: rgba(31, 181, 172, 0.90);
+	background: rgba(31, 141, 181, 0.90);
 }
 .overlay-content .project-info{
 	width: 100%;
@@ -1125,7 +1125,7 @@ a {
 	color:#999999;
 }
 .testislider-control:hover i {
-	color:#1fb5ac;
+	color:#1fa6b5;
 }
 .carousel .left.testislider-control {
 	left: 40%;
@@ -1279,7 +1279,7 @@ a {
 	font-size: 15px;
 	font-style: italic;
 	font-weight: 500;
-	border-left: 5px solid #1fb5ac;
+	border-left: 5px solid #1fa6b5;
 	margin-left: 15px;
 }
 
@@ -1331,7 +1331,7 @@ a {
 }
 
 .post-item .link-info {
-	background: #1fb5ac;
+	background: #1fa6b5;
 	padding: 20px;
 	color:#FFF;
 	position: relative;
@@ -1410,7 +1410,7 @@ a {
 .blog-pagination .pagination > .active > a:focus,
 .blog-pagination .pagination > .active > span:focus {
 	color:#FFF;
-	background-color: #1fb5ac;
+	background-color: #1fa6b5;
 	border-color:transparent;
 }
 
@@ -1502,7 +1502,7 @@ a {
 }
 .comment-section .your-comment:focus{
 	outline: none;
-	border-color: #1fb5ac;
+	border-color: #1fa6b5;
 	background: #ffffff;
 }
 .comment-form .row {
@@ -1513,7 +1513,7 @@ a {
 }
 .comment-form .btn {
 	border: 1px solid transparent;
-	background: #1fb5ac;
+	background: #1fa6b5;
 	color: #FFF;
 	text-transform: uppercase;
 	border-radius: 4px;
@@ -1590,7 +1590,7 @@ a {
 }
 .form-input-group input:focus {
 	outline: none;
-	border-color:#1fb5ac;
+	border-color:#1fa6b5;
 	background: #FFF;
 }
 .contact-form .your-message {
@@ -1624,11 +1624,11 @@ a {
 .contact-form .your-message:focus {
 	outline: none;
 	background: #FFF;
-	border-color: #1fb5ac;
+	border-color: #1fa6b5;
 }
 .contact-form .btn {
 	border: 1px solid transparent;
-	background: #1fb5ac;
+	background: #1fa6b5;
 	color:#FFF;
 	text-transform: uppercase;
 	border-radius: 4px;
@@ -1641,7 +1641,7 @@ a {
 	transition: all .35s ease;
 }
 .contact-form .btn:hover {
-	background: #1E9E96;
+	background: #1f8db5;
 }
 
 /* 11.2 Contact Address */
@@ -1695,7 +1695,7 @@ a {
 }
 .social-icons li a:hover{
 	background: #f1f2f7;
-	color: #1fb5ac;
+	color: #1fa6b5;
 }
 .social-icons li a:before {
 	font-family: FontAwesome;
